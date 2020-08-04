@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Using MongoDB in .NET project
-description: What project can you use MongoDB for? How do you sell this idea to your management and colleagues? Difficulties that everyone will face. You will find answers to these questions, as well as examples from the history of implementation in real production, in this report.
+description: What project can you use MongoDB for? How do you sell this idea to your management and colleagues? Difficulties that everyone will face. You will find answers to these questions, as well as examples from the history of implementation in real production, in this talk.
 image: '/images/posts/mongodb-logo.png'
 ---
 
 
-The talk about how to create .NET services with MongoDb (version 4.2).<br>
-Organizer: [SpbDotNet](http://Spb.DotNet.Ru)<br>
-Coauthor: Eliseev Dmitriy (@rowcount)<br>
+The talk about how to create .NET services with MongoDb (version 4.2). <br>
+Organizer: [SpbDotNet](http://Spb.DotNet.Ru) <br>
+Coauthor: [Eliseev Dmitriy](https://github.com/rowcount) <br>
 Language: Russian
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6yZu_SIV9rY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
