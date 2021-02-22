@@ -4,7 +4,7 @@ title: About
 image: '/images/pages/about.jpeg'
 ---
 
-Hey, my name is Roman and I am software engineer from Saint-Petersburg.
+Hey, my name is Roman and I am a software engineer from Saint-Petersburg.
 Mostly I do backend on .NET Core.
 
 ### Key skills and competencies
