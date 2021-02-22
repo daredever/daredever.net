@@ -13,7 +13,7 @@ baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://daredever.net/' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/daredever'
 github:      'https://github.com/daredever'
-youtube:     'https://www.youtube.com/channel/UCO4-VOMUA5Cmxa5Zrcws_3Q/playlists'
+youtube:     'https://www.youtube.com/channel/UCO4-VOMUA5Cmxa5Zrcws_3Q'
 
 markdown:  kramdown
 permalink: pretty
