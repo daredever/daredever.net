@@ -2,7 +2,6 @@
 layout: post
 title: Book club .NET Season 1
 description: First season of podcast aka an online book club released.
-image: '/images/posts/proj-bookclub.jpeg'
 ---
 
 

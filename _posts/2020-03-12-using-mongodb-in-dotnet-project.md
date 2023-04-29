@@ -2,7 +2,6 @@
 layout: post
 title: Using MongoDB in .NET project
 description: What project can you use MongoDB for? How do you sell this idea to your management and colleagues? Difficulties that everyone will face. You will find answers to these questions, as well as examples from the history of implementation in real production, in this talk.
-image: '/images/posts/mongodb-logo.png'
 ---
 
 

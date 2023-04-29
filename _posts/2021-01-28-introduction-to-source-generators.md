@@ -2,7 +2,6 @@
 layout: post
 title: Introduction to Source Generators
 description: A quick tour of C# 9.0 source generators and related features.
-image: '/images/posts/csharp-9.png'
 ---
 
 
