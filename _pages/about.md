@@ -10,12 +10,13 @@ Mostly I do backend on .NET Core.
 ### Key skills and competencies
 
 - Software design.
-- C# and .NET Core.
+- C# and .NET Core, also Python.
 - Garbage collection and memory management.
-- MS SQL Server and MongoDB, ETL processes.
+- MS SQL Server and MongoDB, Kafka, ETL processes.
 - Distributed systems and scalability.
+- Observability.
 - Data structures, algorithms, multithreading.
 - Refactoring, profiling, benchmarking, and optimizations.
-- Unit and integration testing.
+- Unit, integration and load testing.
 - Agile methodology.
-- DevTools: Rider, DotMemory, Git, GitHub, Jira, Confluence, Docker.
+- DevTools: Rider, Git, Docker.
